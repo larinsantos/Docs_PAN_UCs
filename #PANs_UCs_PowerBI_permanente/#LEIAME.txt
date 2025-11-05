@@ -1,0 +1,17 @@
+Informações sobre os dados
+
+Essa pasta contém os resultados do projeto "Apoio à gestão de PANs e Conservação da Biodiversidade na Região Sul", desenvolvido pela Gerência Regional Sul - GR5 e Coordenação de Identificação e Planejamento de Ações para Conservação - COPAN. O projeto teve como objetivos realizar um diagnóstico da abrangência e efetividade de ações de manejo e de PANs nas UCs, bem como, a identificação de prioridades de gestão da biodiversidade e de compartilhamento de informações.
+Processo SEI: 02127.000744/2024-17
+
+Os principais arquivos são:
+-Relatório do Projeto, associado a uma pasta com os dados utilizados para a elaboração de um painel interativo (dados_PANsUCs_BI);
+-Planilha Gestão da Biodiversidade no Sul contém informações sobre o Perfil de Gestão das UCs federais dos Sul e Espécies registradas, e o Panorama dos Planos de Ação Nacional no Sul;
+-Base de dados com registros da flora e da fauna, em especial da fauna ameaçada de extinção ocorrente na região Sul;
+-Tabela de Integração PANs e UCs, com as ideias de integração propostas em reunião sobre o projeto.
+
+Os dados estão em tabelas Excel e pastas, os quais serão compartilhados, favor não alterar os dados ou locais dos arquivos para evitar erros.
+
+Qualquer dúvida, entre em contato com copan@icmbio.gov.br ou gr5@icmbio.gov.br.
+
+Att.
+GR5 e COPAN
