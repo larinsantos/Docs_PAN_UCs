@@ -1,0 +1,16 @@
+Informações sobre os dados
+
+Essa pasta contém dados gerados pelo projeto "Apoio à gestão de PANs e Conservação da Biodiversidade na Região Sul", desenvolvido pela Gerência Regional Sul - GR5 e Coordenação de Identificação e Planejamento de Ações para Conservação - COPAN. 
+Processo SEI: 02127.000744/2024-17
+
+Os dados desta pasta foram utilizados para a elaboração de um painel interativo no Power BI:
+-Informações básicas das UCs federais do Sul e coordenadas geográficas (dados_ucs_sul_25042025);
+-Informações fornecidas pelas UCs através do Questionários Diagnóstico PANs nas UCs do Sul (questionario_ucs_sul_25042025);
+-Outras informações estão na base de dados Gestão da Biodiversidade no Sul, que contém informações sobre o Perfil de Gestão das UCs federais dos Sul e Espécies registradas, o Panorama dos Planos de Ação Nacional no Sul e a lista das espécies contempladas em PANs vigentes.
+
+Os dados serão compartilhados, favor não alterar os dados ou locais dos arquivos para evitar erros.
+
+Qualquer dúvida, entre em contato com gr5@icmbio.gov.br.
+
+Att.
+GR5
